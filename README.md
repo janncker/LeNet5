@@ -5,7 +5,9 @@ Copied from https://github.com/fan-wenjie/LeNet-5/
 
 ## Build 
 Download dataset first by:
-         make download
+        
+        make download
 
 Build by:
-         make
+        
+        make
